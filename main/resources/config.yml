@@ -1,0 +1,7 @@
+killstreaks:
+  1:
+    kills: 1
+    message: '&b&lAXOLOTL&f&lKILLSTREAKS &8» &a{player} is on a 1 kill streak!'
+  2:
+    kills: 3
+    message: '&b&lAXOLOTL&f&lKILLSTREAKS &8» &a{player} is on a 3 kill streak!'

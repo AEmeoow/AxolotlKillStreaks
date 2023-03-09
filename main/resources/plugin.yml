@@ -1,0 +1,7 @@
+name: AxolotlKillStreaks
+version: 1
+main: axolotlstudios.AxolotlKillStreaks
+api-version: 1.19
+commands:
+  axolotlkillstreaks:
+    description: Reloads the plugin.
